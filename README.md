@@ -99,7 +99,7 @@
 * vim-surround 修改一段代码周围的引号、括号等
 * CmdlineComplete 给命令行提供补全功能
 * bufexplorer 提供 Buffer 列表
-* zencoding-vim
+* emmet-vim
     * 快捷键是 <code>&lt;Ctrl&gt;-k</code>
 * nerdtree 查看目录树
     * 设置了过滤 pyc 文件
