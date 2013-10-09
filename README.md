@@ -17,6 +17,10 @@
     git clone git://github.com/Geek-Lee/vim.git ~/.vim
     cd ~/.vim && ./install.sh
 
+如果出现 error “ 运行sh权限不足 ”，则在 ./install.sh 前执行
+    
+    chmod +x install.sh
+
 ### Windows
 
 在 %HOME% 目录下执行
