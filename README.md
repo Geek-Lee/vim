@@ -1,4 +1,4 @@
-# PerfectWorks 的 Vim 配置以及插件
+# Geek-Lee 的 Vim 配置以及插件
 作者日常工作环境为 Linux，经常编辑 JavaScript/HTML/CSS/Python/Shell 文件，因此大部分插件都是为这些文件进行优化。
 
 这份配置对 Vim 的修改不多，每个修改都有详细的注释说明，对初学者比较友好。
@@ -14,14 +14,14 @@
 
 在 $HOME 目录下执行以下命令
 
-    git clone git://github.com/perfectworks/vim.git ~/.vim
+    git clone git://github.com/Geek-Lee/vim.git ~/.vim
     cd ~/.vim && ./install.sh
 
 ### Windows
 
 在 %HOME% 目录下执行
 
-    git clone git://github.com/perfectworks/vim.git %HOME%/.vim
+    git clone git://github.com/Geek-Lee/vim.git %HOME%/.vim
     cd %HOME%/.vim && install.bat
 
 ## 升级
@@ -99,7 +99,7 @@
 * vim-surround 修改一段代码周围的引号、括号等
 * CmdlineComplete 给命令行提供补全功能
 * bufexplorer 提供 Buffer 列表
-* zencoding-vim
+* emmet-vim
     * 快捷键是 <code>&lt;Ctrl&gt;-k</code>
 * nerdtree 查看目录树
     * 设置了过滤 pyc 文件

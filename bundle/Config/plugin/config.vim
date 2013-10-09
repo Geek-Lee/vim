@@ -1,3 +1,8 @@
+" 用;作为命令前缀
+let mapleader = ";"  
+" 把空格键映射成:
+nmap <space> :
+
 " 色彩主题
 colo molokai
 if $TERM == "xterm-256color"
